@@ -43,7 +43,7 @@ namespace Shared
             var appname = NavigationView.FindName("AppName") as NavigationViewItem;
 
 
-            if (menuItem != null && libraryItem != null)
+            if (menuItem != null && libraryItem != null && appname != null)
             {
                 menuItem.Visibility = Visibility.Collapsed;
                 libraryItem.Visibility = Visibility.Collapsed;

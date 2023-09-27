@@ -35,7 +35,8 @@
 
                 <NavigationViewItem Content="Discover"
                             Tag="Shared.Views.SharedFiles"
-                            ToolTipService.ToolTip="Discover"k                            Icon="AllApps">
+                            ToolTipService.ToolTip="Discover"
+                            Icon="AllApps">
                 </NavigationViewItem>
                 <NavigationViewItem Content="Trending"
                     Tag="Shared.Views.FeaturedFiles"
@@ -128,7 +129,7 @@
             
             <NavigationView.FooterMenuItems>
                 <NavigationViewItem Content="About"
-                            Tag="Shared.Views.AboutPage">
+                            Tag="Shared.Views.Onboarding">
                     <NavigationViewItem.Icon>
                         <FontIcon Glyph="&#xF142;" />
                     </NavigationViewItem.Icon>

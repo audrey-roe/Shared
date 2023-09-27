@@ -17,6 +17,7 @@
     <None Remove="Views\Conversation.xaml" />
     <None Remove="Views\Favorites.xaml" />
     <None Remove="Views\FeaturedFiles.xaml" />
+    <None Remove="Views\Onboarding.xaml" />
     <None Remove="Views\SharedFiles.xaml" />
   </ItemGroup>
 
@@ -44,6 +45,11 @@
   -->
   <ItemGroup Condition="'$(DisableMsixProjectCapabilityAddedByProject)'!='true' and '$(EnableMsixTooling)'=='true'">
     <ProjectCapability Include="Msix" />
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Views\Onboarding.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
   </ItemGroup>
   <ItemGroup>
     <Page Update="Views\AboutPage.xaml">

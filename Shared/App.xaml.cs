@@ -45,6 +45,8 @@ namespace Shared
 
         protected override void OnLaunched(Microsoft.UI.Xaml.LaunchActivatedEventArgs args)
         {
+          
+            // Ensure the window is active
             m_window = new MainWindow();
             m_window.Activate();
         }
