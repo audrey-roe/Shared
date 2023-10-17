@@ -6,7 +6,7 @@ To get started, please follow these guidelines:
 
 ## How Can I Contribute?
 
-- **Reporting Bugs**: If you find a bug or an issue within the app, please create an issue on our [GitHub issue tracker](https://github.com/yourusername/winui3-podcast-app/issues). Be sure to include a detailed description of the problem.
+- **Reporting Bugs**: If you find a bug or an issue within the app, please create an issue on our [GitHub issue tracker](https://github.com/audrey-roe/WinUI3-Podcast-app2/issues). Be sure to include a detailed description of the problem.
 
 - **Requesting Features**: If you have an idea for a new feature, feel free to create a feature request issue on our issue tracker. We encourage you to describe the use case and the potential impact.
 
