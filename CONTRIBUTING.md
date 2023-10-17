@@ -1,5 +1,3 @@
-Certainly! Here's a template for a `CONTRIBUTING.md` file for your WinUI 3 podcast app GitHub repository:
-
 # Contributing to the WinUI 3 Podcast App
 
 We welcome and appreciate contributions from the community to help us improve the WinUI 3 Podcast App. Whether you're interested in fixing a bug, adding a new feature, or enhancing the documentation, your contributions make the project better for everyone.
