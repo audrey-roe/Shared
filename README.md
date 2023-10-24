@@ -1,6 +1,6 @@
 # Shared - WinUI 3 Podcast App
 
-Welcome to the WinUI 3 Podcast App repository! This open-source podcast app is built using WinUI 3, designed for Windows 10 and beyond. It allows you to discover, subscribe to, and listen to your favorite podcasts with a native Windows app.
+This is a podcast app that is built using WinUI 3, designed for Windows 10 and beyond. It allows you to discover, subscribe to, and listen to your favorite podcasts with a native Windows app.
 
 ## Features
 
